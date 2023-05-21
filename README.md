@@ -1,2 +1,2 @@
 # Template-Three
-HTML &amp; CSS
+HTML, CSS &amp; JS
