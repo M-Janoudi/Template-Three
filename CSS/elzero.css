@@ -1050,7 +1050,7 @@ a {
     content: "";
     position: absolute;
     background-color: #d5d5d5;
-    top: 1;
+    top: 0;
     left: 80px;
     width: 50px;
     height: 100%;
